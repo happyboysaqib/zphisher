@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	 SAQIB HACKER
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/htr-tech
 
@@ -153,15 +153,15 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}   0
+		${ORANGE} ______  3
+		${ORANGE}|___  / 48   
+		${ORANGE}   / / 41 60 325
+		${ORANGE}  / / 
+		${ORANGE}  |   whatsapp number uper hai
+		${ORANGE}/_
+		${ORANGE}    hacker 
+		${ORANGE}     saqib              ${RED}Version : 2.2
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
 	EOF
@@ -170,10 +170,10 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${BLUE}saqib
+		${BLUE} ur rehman 
+		${BLUE} whsatpp 03484160325 
+		${BLUE}  ${WHITE} 2.2
 	EOF
 }
 
@@ -314,13 +314,13 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}Author   ${RED}:  ${ORANGE}SAQIB KHAN ${RED}[ ${ORANGE}HTR-TECH ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/saqib.Khan
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1,AliMilani ${RESETBG}
+		${REDBG}${WHITE} Thanks : zuku090x,MoisesTapia,ThelinuxChoice
+								  DarkSecDevelopers,saqib khan,1RaY-1,hacker ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
